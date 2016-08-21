@@ -1,0 +1,6 @@
+alias magnum_first_test none 
+alias magnum_firstcommands1 none 
+alias magnum_first_menu none 
+alias magnum_firstcommands2 none 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file Resource/ui/..\ui2\welcome2.res
+Resource/UI2/motd_hidden.res, MOTD_Panel, MOTD_TitleImageBg, 1, (*MOTD_HeaderLabel*), 

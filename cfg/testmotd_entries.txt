@@ -1,0 +1,16 @@
+"motd_entries"
+{
+	"last_request_time"		"2016-07-04 02:24:21"
+	"last_request_language"		"english"
+	"100"
+	{
+		"post_time"		"2016-07-04 02:24:21"
+		"title_english"		"Omp Orange Ver 2.2"
+		"text_english"		"Saw Dude This Is Bender Test Stuff I Should Remove This Though This is the best update in tf2 it is my hud ok bruh jk im not that cocky I think."
+		"url"		"http://www.teamfortress.tv/34567/magnum-hud"
+		"image"		"http://i.imgur.com/w7QeHqV.jpg"
+		"header_type"		"2"
+		"header_english"		"Omp Orange Ver 2.2"
+		"header_icon"		""
+	}
+}
